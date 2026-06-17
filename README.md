@@ -1,2 +1,2 @@
 # my-first-repo
-Practice account for learning Git
+This is a repo focused on my studies and little projects
